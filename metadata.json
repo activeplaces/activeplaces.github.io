@@ -1,7 +1,7 @@
 {
   "dataset-site-url": "https://activeplaces.github.io/",
-  "title": "Active Places Sport Facilities",
-  "description": "Facility and site data from the activeplacespower.com site",
+  "title": "Active Places National Sport Facility Database",
+  "description": "Sport facility data for England maintained by Sport England on behalf of the sport sector.",
   "publisher-name": "Sport England",
   "publisher-url": "https://www.sportengland.org/",
   "keyword-1": "Sport Facilities",
@@ -12,9 +12,9 @@
   "rpde-version": "0.2.3",
   "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
   "license-url": "https://creativecommons.org/licenses/by/4.0/",
-  "attribution-text": "Active Places",
+  "attribution-text": "Contains Data © Sport England",
   "attribution-url": "https://activeplaces.github.io/",
-  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us13.list-manage.com\",\"uuid\":\"9e6648557f84731796a4ac873\",\"lid\":\"2167da53bb\"}) })",
+  "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us15.list-manage.com\",\"uuid\":\"9f733dcd670b774dfbc0b684d\",\"lid\":\"c17c2dc0a3\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
   "publish": false
